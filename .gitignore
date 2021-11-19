@@ -1,0 +1,6 @@
+/.env
+/.vscode
+/webhook/*
+/data/*
+/logs/*
+.DS_Store
